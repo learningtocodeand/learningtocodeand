@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Interested in full stack web development and building practical applications.<br><br>🌱 Currently learning and exploring LLMs, Generative AI, and AI tools.<br><br>🧠 Have a basic understanding of machine learning concepts.<br><br>👩‍💻 Comfortable programming in Python, Java, C++, and C.<br><br>⚙️ Interested in automation, software development, and learning new technologies.<br><br>🚀 Always trying to improve problem-solving and development skills through projects and experimentation.
+💻 Interested in full stack web development and building practical applications.<br>🌱 Currently learning and exploring LLMs, Generative AI, and AI tools.<br>🧠 Have a basic understanding of machine learning concepts.<br>👩‍💻 Comfortable programming in Python, Java, C++, and C.<br>⚙️ Interested in automation, software development, and learning new technologies.<br>🚀 Always trying to improve problem-solving and development skills through projects and experimentation.
 
 
 ## 🌐 Socials:
