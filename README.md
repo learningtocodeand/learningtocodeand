@@ -13,6 +13,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=learningtocodeand&theme=dark&hide_border=false&background=000000&border=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=learningtocodeand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&border_color=58A6FF&title_color=58A6FF&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=learningtocodeand&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=learningtocodeand&theme=radical&no-frame=false&no-bg=true&margin-w=4)
